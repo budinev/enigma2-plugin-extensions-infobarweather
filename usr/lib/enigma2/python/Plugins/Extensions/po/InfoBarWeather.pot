@@ -28,6 +28,12 @@ msgstr ""
 msgid "km/h"
 msgstr ""
 
+msgid "mph"
+msgstr ""
+
+msgid "mm"
+msgstr ""
+
 msgid "Please configure a location in plugin settings"
 msgstr ""
 
@@ -66,7 +72,13 @@ msgstr ""
 msgid "Wind speed unit"
 msgstr ""
 
-msgid "Display wind speed as BFT, m/s or km/h."
+msgid "Display wind speed as BFT, m/s, km/h or mph."
+msgstr ""
+
+msgid "Temperature unit"
+msgstr ""
+
+msgid "Display temperature as °C or °F."
 msgstr ""
 
 msgid "Show location"
@@ -117,4 +129,40 @@ msgid "Could not download location data."
 msgstr ""
 
 msgid "Show current weather in infobar"
+msgstr ""
+
+msgid "In infobar"
+msgstr ""
+
+msgid "Above infobar"
+msgstr ""
+
+msgid "Top of screen"
+msgstr ""
+
+msgid "Lat"
+msgstr ""
+
+msgid "Lon"
+msgstr ""
+
+msgid "Position"
+msgstr ""
+
+msgid "Show min/max temperature"
+msgstr ""
+
+msgid "Show UV index"
+msgstr ""
+
+msgid "UV"
+msgstr ""
+
+msgid "Display location as"
+msgstr ""
+
+msgid "Show sun power"
+msgstr ""
+
+msgid "W/m²"
 msgstr ""
